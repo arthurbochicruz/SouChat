@@ -1,0 +1,80 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.Conteiner {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #FFFFFF;
+    width: 100%;
+    min-width: 100vh;
+    height: 102px;
+    
+}
+
+.Souchat-logo {
+    width: 235px;
+    height: 57.3px;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+
+.divLink {
+    position: fixed;
+    top: 0;
+    margin-top: 28px;
+    margin-left: 386px;
+    padding: 10px;
+    width: 566.83px;
+    height: 82px;
+}
+
+.Links {
+    color: black;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+strong {
+    width: 53px;
+    width: 23;
+}
+
+.fal{
+    display: flex;
+    position: fixed;
+    top: 0;
+    right: 0;
+    margin-right: 190px;
+    margin-top: 24px;
+    background-image: linear-gradient(to right, #0ABEB7,#3f8b92);
+    width: 211.27px;
+    height: 62px;
+    border-radius: 40px;
+    text-align: center;
+    font-weight: 700;
+    font-style: normal;
+    font-family: sans-serif;
+    text-decoration: none;
+
+
+}   .fal:hover {
+    background-image: linear-gradient(to left, #0ABEB7,#3f8b92);
+    
+    }
+
+.spantext {
+    flex: auto;
+    flex-wrap: wrap;
+    color: #FFFFFF;
+    padding-right: 5px;
+    margin-top: 9px;
+    text-decoration: none;
+}

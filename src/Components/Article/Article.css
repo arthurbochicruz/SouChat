@@ -1,0 +1,82 @@
+.Dad {
+    display: flex;
+    flex-direction: row;
+}
+
+.article {
+    display: flex;
+    flex-direction: column;
+    margin-left: 140px;
+    margin-top: 165px;
+    width: 465.94px;
+    height: 634.05;
+}
+
+
+h2.title1 {
+    flex: auto;
+    color: black;
+    width: 445.94px;
+    height: 136px;
+    font-size:  22px;
+    font-family: Poppins, sans-serif;
+    line-height: 1.6;
+    margin-bottom: 0px;
+    
+}
+
+.title2 {
+    flex: auto;
+    padding-top: 0px;
+    width: 445.94px;
+    height: 160px;
+    font-size:  20px;
+    font-family: Mulish, sans-serif;
+    line-height: 1.6;
+    color: #636466;
+    font-weight: lighter;
+    font-style: normal;
+    margin-top: px;
+
+}
+    
+.Img-Comp_cll{
+    width: 614.05px;
+    height: 614.05;
+    margin-top: 70px;
+}
+
+div.button {
+    width: 445px.94;
+    height: 60px;
+    margin-bottom: 100px;
+}
+
+.linkButton {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 311px;
+    height: 60px;
+    background-color: #21B8B9;
+    text-decoration: none;
+    border-radius: 50px;
+    
+}
+
+.Span{
+    position: relative;
+    top: 20px;
+    color: black;
+    width: 311px;
+    border-radius: 50px;
+    height: 35px
+ 
+}
+
+.h1 {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
