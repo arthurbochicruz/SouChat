@@ -1,4 +1,5 @@
 import './Article.css'
+import '../responsividade.css'
 import Img from '../../assets/Comptuador-cell__img.png'
 
 function Article() {
