@@ -20,7 +20,7 @@ function Article() {
                 
                     <a className='linkButton' href="#">
                         <span className='Span'>        
-                            <h1 className='h1'>Solicite uma Demonstração!</h1>
+                            <h1 className='h1'>Solicite uma Demonstração</h1>
                         </span>        
                     </a>     
                                 
