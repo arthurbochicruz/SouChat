@@ -1,22 +1,95 @@
 
     /* Telas pequenas/Celulares pequenos */
 @media screen and (max-width: 600px) {
+    /* Navbar */
+
+   .Conteiner {
+        position: absolute;
+        top: 0;
+        left: 0;
+       width: 100vw;
+    }
+
+    .Souchat-logo {
+        display: none;
+    }
+
+    .divLink {
+        display: none;
+    }
+    
+    .Links {
+        display: none;
+    }
+
+    .fal {
+        margin-right: 180px;
+        margin-top: 40px;
+        width: 219px;
+        height: 46px;
+        text-align: center;
+    }
+    .br1{
+        display: none;
+    }
+
+    .menu {
+        display: block;
+        color: black;
+        margin: auto;
+    }
+    .Divmenu {
+        text-align: center;
+        justify-content: center;
+        display: block;
+        width: 33px;
+        height: 33px;
+        background-color: #F2F2F2;
+        margin-top: 47px;
+        margin-left: 84px;
+        
+    }
+
+    .Img-Comp_cll {
+        display: none;
+    }
+
+    .title1 {
+
+    }
+    
+    .title2 {
+
+    }
+    
 
 }
+
+
     /* Celulares/Medios e Grandes */
 @media screen and (min-width: 600px ) and (max-width: 768px) {
 
+ 
+
 }
+
+
 
     /* Tablets */
 @media screen and (min-width: 768px ) and (max-width: 992px) {
+
+
 
 }
 
 /* As configurações originais já são para desktop */
 
+
+
     /* Telas Grandes */
 @media screen and (min-width: 1200px) {
+
+
 
 }
 

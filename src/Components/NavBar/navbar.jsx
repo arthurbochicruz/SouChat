@@ -1,9 +1,11 @@
 import './navbar.css'
 import '../responsividade.css'
-
+import Menu from '../../assets/menu.png'
 function NavBar() {
     return (
         <main className='Conteiner'>
+
+            <div className='Divmenu'><img className='menu' src={Menu} alt="menu" /></div>
 
             <h1 className='Souchat-logo'><img className='Souchat-logo' src="Souchat-logo.png" alt="Logo SouChat" /></h1>
 
@@ -16,7 +18,7 @@ function NavBar() {
 
             <a className='fal' href="#">
                 <p className='spantext'>
-                        Falar com <br />
+                        Falar com <br className='br1' />
                       Especialistas
                 </p>
             </a>
