@@ -1,12 +1,14 @@
 
     /* Telas pequenas/Celulares pequenos */
 @media screen and (max-width: 600px) {
+
+
     /* Navbar */
 
     body {
         width: 90%;
         overflow-y: auto;
-        overflow-x: hidden;  
+        overflow-x: auto;
     }
 
    .Conteiner {
@@ -56,8 +58,21 @@
         
     }
 
+
+
+    /* Article */
+
+
+
     .Img-Comp_cll {
         display: none;
+    }
+
+    .Img2 {
+        display: block;
+        position: absolute;
+        left: 0;
+        top: 478px;
     }
 
     .article {
@@ -92,8 +107,6 @@ div.button {
     margin-left: -50px;
     margin-top: 50px;
 }
-    
-    
 
 }
 
@@ -113,6 +126,8 @@ div.button {
 
 
 }
+
+
 
 /* As configurações originais já são para desktop */
 

@@ -46,6 +46,10 @@ h2.title1 {
     margin-top: 70px;
 }
 
+.Img2 {
+    display: none;
+}
+
 div.button {
     width: 445px.94;
     height: 60px;

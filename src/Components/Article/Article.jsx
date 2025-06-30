@@ -1,6 +1,7 @@
 import './Article.css'
 import '../responsividade.css'
-import Img from '../../assets/Comptuador-cell__img.png'
+import Img from '../../assets/Cmp.png'
+import Img2 from '../../assets/Comptuador-cell__img.png'
 
 function Article() {
 
@@ -30,7 +31,7 @@ function Article() {
             </article>
 
                 <img className='Img-Comp_cll' src={Img} alt="Computador em celular" />
-
+                <img className='Img2' src={Img2} alt="" />
         </div>
     )
 }
