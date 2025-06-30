@@ -1,0 +1,23 @@
+
+    /* Telas pequenas/Celulares pequenos */
+@media screen and (max-width: 600px) {
+
+}
+    /* Celulares/Medios e Grandes */
+@media screen and (min-width: 600px ) and (max-width: 768px) {
+
+}
+
+    /* Tablets */
+@media screen and (min-width: 768px ) and (max-width: 992px) {
+
+}
+
+/* As configurações originais já são para desktop */
+
+    /* Telas Grandes */
+@media screen and (min-width: 1200px) {
+
+}
+
+
