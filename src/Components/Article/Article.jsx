@@ -9,7 +9,7 @@ function Article() {
             <article className='article'>
 
                 <h2 className='title1'>
-                    1ª Plataforma De Atendimentos<br/>Corporativos Nacional Para<br/>Atacadistas, Distribuidoras E<br/>Indústrias.
+                    1ª Plataforma De Atendimentos<br />Corporativos Nacional Para<br className='brh2'/>Atacadistas,<br className='brtp'/> Distribuidoras E<br className='brh2'/>Indústrias.
                 </h2>
 
                 <h2 className='title2'>

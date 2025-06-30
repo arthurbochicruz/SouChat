@@ -85,3 +85,7 @@ strong {
     margin-top: 9px;
     text-decoration: none;
 }
+
+.brtp {
+    display: none;
+}
