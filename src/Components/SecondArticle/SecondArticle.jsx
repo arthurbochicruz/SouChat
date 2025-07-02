@@ -1,8 +1,9 @@
 import './SecondArticle.css'
+import WorkImg from '../../assets/work-chat.gif'
 
 function SecondArticle() {
     return (
-        <section>
+        <section className='section-elementor'>
             <div className='div-titles'>
                 <h2 className='title-atendimentos'>
                 Setorize o seu atendimento com <br /> apenas 1 Número de<br />WhatsApp.
@@ -18,6 +19,10 @@ function SecondArticle() {
                     </a>
                 </div>
             </div>
+
+            
+                    <div className='space-imag-work'><img  src={WorkImg} alt="" /></div>
+            
         </section>
     )
 }
