@@ -2,7 +2,9 @@ import './SecondArticle.css'
 
 function SecondArticle() {
     return (
-        <section></section>
+        <section>
+            
+        </section>
     )
 }
 
