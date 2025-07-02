@@ -1,6 +1,7 @@
 {
   "name": "souchat",
   "private": true,
+  "homepage": "https://arthurbochicruz.github.io/souChat",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
