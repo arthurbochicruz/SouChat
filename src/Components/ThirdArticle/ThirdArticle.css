@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+
+.div-elementor-thirdarticle {
+    position: absolute;
+    right: 0;
+    top: 1270px;
+    width: 583px;
+    height: 547px;
+    margin-right: 125px;
+   /* border: 1px solid rgba(0, 0, 0, 0.535);*/
+    margin-top: 0px;
+
+}
+
+.h2-thirdarticle {
+    text-align: right;
+    line-height: 48px;
+    font-size: 40px;
+    font-weight: 900;
+    font-family: 'Mulish', sans-serif;
+    color: #636466;
+    margin-top: -5px;
+}
+
+.p {
+    font-family: 'Mulish', sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    letter-spacing: normal;
+    font-size: 20px;
+    line-height: 30px;
+    color: #636466;
+    font-weight: 400;
+    text-align: right;
+}
+
+.ul-elementor {
+    content: "✓";
+    list-style: circle;
+    position: absolute;
+    right: 0;
+}
+
+.li-elementor {
+    font-family: 'Mulish', sans-serif;
+    list-style: none;
+    color :#06BEB6;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 400;
+    text-align: right;
+    margin-bottom: 9px;
+}
+
+.span-elementor {
+    list-style: none;
+    color:#06BEB6;
+    font-size: 20px;
+    line-height: 30px;
+    
+}
+
+.img-circle-check {
+    display: inline-block;
+    margin-right: 10px;
+    border-radius: 50%
+    
+}
+
+
+
+.a-buttonHire {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    display: flex;
+    flex-direction: column;
+    width: 163px;
+    height: 46px;
+    background-color: #20B9B9;
+    border-radius: 30px;
+    text-decoration: none; 
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.span-buttonHire {
+    margin-left: 20px;
+    text-align: center;
+    justify-content: center;
+    width: 124px;
+    height: 16px;
+   
+}
+
+.div-Pull-Img {
+    position: absolute;
+    left: 0;
+    margin-left: 140px;
+    margin-top: 35px;
+}
