@@ -2,6 +2,7 @@ import './App.css'
 import NavBar from './Components/NavBar/navbar'
 import Article from './Components/Article/Article'
 import SecondArticle from './Components/SecondArticle/SecondArticle'
+import ThirdArticle from './Components/ThirdArticle/ThirdArticle'
 
 function App(){
     return (
@@ -9,6 +10,7 @@ function App(){
            <NavBar />
            <Article />
            <SecondArticle />
+           <ThirdArticle />
        </div>
     )
 }
