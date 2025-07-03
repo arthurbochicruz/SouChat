@@ -1,4 +1,5 @@
 import './App.css'
+import ImgZapZap from '../src/assets/img-wa.png'
 import NavBar from './Components/NavBar/navbar'
 import Article from './Components/Article/Article'
 import SecondArticle from './Components/SecondArticle/SecondArticle'
@@ -11,6 +12,15 @@ function App(){
            <Article />
            <SecondArticle />
            <ThirdArticle />
+
+           <div className='div-pricipal-button'>
+            <div><img className='img-zapzap' src={ImgZapZap} alt="" /></div>
+            <a className='link_button' href="#">
+                <span className='span-button'>
+                    Fale Conosco
+                </span>
+            </a>
+           </div>
        </div>
     )
 }
