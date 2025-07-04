@@ -5,6 +5,7 @@ import Article from './Components/Article/Article'
 import SecondArticle from './Components/SecondArticle/SecondArticle'
 import ThirdArticle from './Components/ThirdArticle/ThirdArticle'
 import FourthArticle from '../src/Components/FourthArticle/FourthArticle'
+import FifthArticle from './Components/FifthArticle/FifthArticle'
 
 function App(){
     return (
@@ -14,6 +15,7 @@ function App(){
            <SecondArticle />
            <ThirdArticle />
            <FourthArticle />
+           <FifthArticle />
 
            <div className='div-pricipal-button'>
 
