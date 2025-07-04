@@ -2,6 +2,7 @@
         background-color: white;
         overflow-y: auto;      
         overflow-x: hidden;
+         scroll-behavior: smooth;
   }
 
 .HeartOfTheProject {
@@ -15,6 +16,8 @@ div.div-pricipal-button {
   position: fixed;
   bottom: 0;
   right: 0;
+  margin-right: 15px;
+  margin-bottom: 10px;
 }
 
 a.link_button {
@@ -24,11 +27,15 @@ a.link_button {
   background-color: #00B13A;
   text-decoration: none;
   margin-bottom: 10px;
+  padding: 0px 3px 0px 3px;
   border-radius: 5px
 
 }
   
 span.span-button {
+  margin-top: 7px;
+  padding-left: 0px;
+  padding-right: 0px;
   flex: auto;
   justify-content: center;
   text-align: center;
@@ -44,4 +51,6 @@ span.span-button {
   margin: auto;
   width: 55px;
   height: 55px;
+  margin-left: 27px;
+  margin-bottom: 5px;
 }

@@ -16,14 +16,23 @@ function App(){
            <FourthArticle />
 
            <div className='div-pricipal-button'>
-            <div><img className='img-zapzap' src={ImgZapZap} alt="" /></div>
+
+            <div>
+                <img className='img-zapzap' src={ImgZapZap} alt="" />
+            </div>
+
             <a className='link_button' href="#">
+
                 <span className='span-button'>
                     Fale Conosco
                 </span>
+
             </a>
+
            </div>
+           
        </div>
+
     )
 }
 

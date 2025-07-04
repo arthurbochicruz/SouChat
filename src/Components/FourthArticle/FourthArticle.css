@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+
+.FourthArticle {
+    position: absolute;
+    top: 2020px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 657px;
+
+}
+
+
+.div-elementor-FourthArticle {
+    margin-top: 0px;
+    margin-left: 128px;
+    display: flex;
+    flex-direction: column;
+    width: 583px;
+    height: 517px;
+}
+
+.h2-FourthArticle {
+    color: #636466;
+    font-family: 'Mulish', sans-serif;
+    font-size: 40px;
+    line-height: normal;
+    font-weight: 900;
+    margin-bottom: 20px;
+    padding-left: 10px;
+}
+
+.p-FourthArticle {
+    font-family: 'Mulish', sans-serif;
+    color: #636466;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 400;
+    padding-left: 10px;
+}
+
+.a-FourthArticle {
+    text-decoration: none;
+    background-color: #2CB6BB;
+    display: flex;
+    width: 264px;
+    height: 46px;
+    border-radius: 30px;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.span-FourthArticle {
+    margin: auto;
+}
+
+
+.img-fourtharticle {
+    width: 497px;
+    height: 497px;
+    position: absolute;
+    right: 0;
+    margin-right: 128px;
+}
