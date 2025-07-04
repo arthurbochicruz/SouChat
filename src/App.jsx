@@ -4,6 +4,7 @@ import NavBar from './Components/NavBar/navbar'
 import Article from './Components/Article/Article'
 import SecondArticle from './Components/SecondArticle/SecondArticle'
 import ThirdArticle from './Components/ThirdArticle/ThirdArticle'
+import FourthArticle from '../src/Components/FourthArticle/FourthArticle'
 
 function App(){
     return (
@@ -12,6 +13,7 @@ function App(){
            <Article />
            <SecondArticle />
            <ThirdArticle />
+           <FourthArticle />
 
            <div className='div-pricipal-button'>
             <div><img className='img-zapzap' src={ImgZapZap} alt="" /></div>
